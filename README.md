@@ -6,3 +6,5 @@ I'm NOTSSH, russian teenager-geek.
 
 I’m currently learning Python 3. I also plan to start learning JS and Kotlin. Interested in web-development, now I'm studying aiogram, aiohttp, FastAPI, sqlalchemy and the like.
 I also have my own small home server on Alpine Linux. Linux administration is quite an interesting and useful activity, imho.
+
+Note: I don't have any social networks/messengers other than Telegram. If you see someone with the same nickname -  most likely, it's not me, do not disturb these people.
